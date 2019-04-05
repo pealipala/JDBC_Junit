@@ -7,6 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+/**
+ *junit测试
+ */
 public class JDBC_CURD {
     Connection conn=null;
     Statement st=null;
