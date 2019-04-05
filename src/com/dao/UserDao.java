@@ -5,6 +5,7 @@ package com.dao;
 public interface UserDao {
      /**
      * 查询所有
+      *
      */
     void findAll();
     void login(String uname,String pwd);
