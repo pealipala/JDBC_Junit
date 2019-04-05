@@ -2,7 +2,6 @@ package com.junit;
 
 import com.util.JDBCUtil;
 import org.junit.Test;
-
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
